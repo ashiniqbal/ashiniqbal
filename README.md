@@ -6,21 +6,12 @@
  Humanity and connecting a new person with a gentle smile are the biggest achievements in my life.**
 
 
-- 🔭 I’m currently working on Node JS, Postgresql, AWS Lamda function.
+- 🔭 I’m currently working on React JS, NextJS and other designing tools.
 - 🌱 I’m currently learning Blockchain Development.
 - 👯 I’m looking to collaborate on Node as well on Blockchain.
 - 💬 Ask me about anything. If I can answer then it is okay and if not I will learn new thing for sure.
-- 📫 How to reach me [Ashin Iqbal](https://ashiniqbal.com)[Portfolio Website]
+- 📫 How to reach me [Ashin Iqbal](https://ashiniqbal.com)[Portfolio]
 - ⚡ Fun fact: "POPEYE THE SAILOR MAN" is still my favourite cartoon.
-
-📈 languages, operating system and tools used :
-
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://aleen42.github.io/badges/src/photoshop.svg"></code>
-<code><img height="20" src="	https://aleen42.github.io/badges/src/illustrator.svg"></code>
-<code><img height="20" src="	https://aleen42.github.io/badges/src/after_effects.svg"></code>
 
 
 📈 most languages used :
